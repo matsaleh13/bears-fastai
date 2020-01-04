@@ -1,4 +1,4 @@
-# cougar-or-not
+# bears-fastai
 
 NOTE: Most of the work in this repo is by [@simonw](https://github.com/simonw). I'm stealing it to bootstrap some exercises in my FastAI course. 20200104 @matsaleh13
 
