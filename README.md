@@ -1,5 +1,9 @@
 # cougar-or-not
 
+NOTE: Most of the work in this repo is by [@simonw](https://github.com/simonw). I'm stealing it to bootstrap some exercises in my FastAI course. 20200104 @matsaleh13
+
+
+
 My first attempt at a machine learning API, using a pre-calculated model trained using [iNaturalist](https://www.inaturalist.org/) data.
 
 The resulting API is used by the [@critter_vision](https://twitter.com/critter_vision) Twitter bot, the source code for which can be found at https://github.com/natbat/CritterVision
